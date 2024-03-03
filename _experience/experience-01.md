@@ -14,7 +14,7 @@ location: "East Lansing, MI, USA"
 - working on developing machine learning algorithms to address critical research problems specifically focused on scoring patient notes and identifying biases in Clerkship Directors’ Comments.
 - Designed comprehensive annotation and evaluation strategies for various research projects, ensuring rigorous and systematic analysis of data.
 - Conducted in-depth error analysis, meticulously identifying and scrutinizing errors to refine research methodologies and enhance data quality.
-- Collaborated on the integration and evaluation of Large Language Models (LLMs) across multiple research problems, leveraging state-of-the-art AI techniques to advance research outcomes.
+- Collaborated on the integration and evaluation of Large Language Models (LLMs) across multiple research problems, leveraging state-of-the-art AI techniques to advance research outcomes. 
 
 <!-- 
 Heading 1
