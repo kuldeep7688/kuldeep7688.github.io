@@ -2,7 +2,7 @@
 title: "Research Assistant"
 collection: experience
 type: "Biomedical Applications of Large Language Models"
-permalink: /experience/experience_0
+permalink: /experience/experience-ra
 venue: "Department of Medicine, MSU"
 date1: 12 October, 2023
 date2: Present
