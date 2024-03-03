@@ -2,7 +2,7 @@
 title: "Research Assistant"
 collection: experience
 type: "Division of Occupational and Environmental Medicine"
-permalink: /experience/experience-ra
+permalink: /experience/experience-01
 venue: "Department of Medicine, MSU"
 date1: 12 October, 2023
 date2: Present

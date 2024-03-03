@@ -2,7 +2,7 @@
 title: "NLP Engineer"
 collection: experience
 type: "Real World Data (RWD) Team"
-permalink: /experience/experience-concert-ai
+permalink: /experience/experience-03
 venue: "ConcertAI (SymphonyAI)"
 date1: 06 Jan 2021
 date2: 30 July 2022

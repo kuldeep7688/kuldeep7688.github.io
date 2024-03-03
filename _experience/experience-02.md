@@ -2,7 +2,7 @@
 title: "AI Research Summer Associate Intern"
 collection: experience
 type: "AI Research Team"
-permalink: /experience/experience-summer-intern-jpmc
+permalink: /experience/experience-02
 venue: "JP Morgan & Chase"
 date1: 04 June 2023
 date2: 26 August 2023

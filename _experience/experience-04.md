@@ -2,7 +2,7 @@
 title: "Data Scientist"
 collection: experience
 type: "Innovation Team"
-permalink: /experience/experience-innoplexus-1
+permalink: /experience/experience-03
 venue: "Innoplexus Consulting Pvt. Ltd."
 date1: 15 August 2017
 date2: 05 January 2021 
