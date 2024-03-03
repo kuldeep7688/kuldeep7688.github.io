@@ -6,11 +6,11 @@ permalink: /experience/experience-03
 venue: "Innoplexus Consulting Pvt. Ltd."
 date1: 15 August 2017
 date2: 05 January 2021 
-excerpt: 'I worked on building NER, knowledge graph, sentiment analysis and topic extraction pipelines.'
+excerpt: 'I worked on building NER, knowledge graph, sentiment analysis and topic extraction models on biomedical datasets.'
 location: "Pune, Maharashtra, India"
 ---
 
-# Role
+## Role
 - Processed 14 million biomedical literature data to prepare company’s Knowledge Graph for biomedical entities and their interactions.
 - Worked on developing Extractive Question Answering using SPECTER + FAISS architecture and Entity Normalization and Linking using BioSyn model.
 - Boosted the Named Entity Recognition model by an average of 5% F1 Score per entity and improved the multi-label Relation Classification model by 4.2% Micro F1 Score
