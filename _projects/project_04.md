@@ -1,13 +1,7 @@
 ---
 title: "BioMedicalAbbvExtractor"
 excerpt: "Identifying abbreviations and their corresponding long forms from biomedical abstracts.
-[(Repo Link)](https://github.com/kuldeep7688/BioMedicalAbbvExtractor)<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- "
+[(Repo Link)](https://github.com/kuldeep7688/BioMedicalAbbvExtractor)<br>"
 collection: projects
 ---
 

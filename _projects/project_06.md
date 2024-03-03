@@ -1,13 +1,7 @@
 ---
 title: "Dunamic Convolutional Neural Network"
 excerpt: "Paper implementation.
-[(Repo Link)](https://github.com/kuldeep7688/dynamic_convolutional_neural_network)<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- "
+[(Repo Link)](https://github.com/kuldeep7688/dynamic_convolutional_neural_network)<br>"
 collection: projects
 ---
 

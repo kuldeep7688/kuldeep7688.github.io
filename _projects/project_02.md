@@ -1,13 +1,7 @@
 ---
 title: "Concept Map Browser Extension"
 excerpt: "A browser extension which will take the selected text on a website as input and create a concept map out of it.
-[(Repo Link)](https://github.com/MSU-AI/concept-map-browser-extension)<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- "
+[(Repo Link)](https://github.com/MSU-AI/concept-map-browser-extension)<br>"
 collection: projects
 ---
 

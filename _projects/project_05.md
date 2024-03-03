@@ -1,13 +1,7 @@
 ---
 title: "TorchServe Based Model Finetuning Service"
 excerpt: "Model Finetuning Service using TorchServe.
-[(Repo Link)](https://github.com/kuldeep7688/TorchserveNer)<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- "
+[(Repo Link)](https://github.com/kuldeep7688/TorchserveNer)<br>"
 collection: projects
 ---
 

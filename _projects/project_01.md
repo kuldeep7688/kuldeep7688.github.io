@@ -1,13 +1,7 @@
 ---
 title: "Predicting Funding Flows in Public and Private Markets (Master's Capstone Project)"
 excerpt: "Our project aims to provide a robust framework for forecasting funding flows in public and private markets by harnessing the power of data science, time series analysis, and NLP. 
-[(Repo Link)](https://github.com/parthmaheshwari/emerging-sectors-forecast.git)<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- "
+[(Repo Link)](https://github.com/parthmaheshwari/emerging-sectors-forecast.git)<br>"
 collection: projects
 ---
 

@@ -1,13 +1,7 @@
 ---
 title: "Experiments with TensorFlow and Keras"
 excerpt: "Code pieces.
-[(Repo Link)](https://github.com/kuldeep7688/tensorflow_and_keras)<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- "
+[(Repo Link)](https://github.com/kuldeep7688/tensorflow_and_keras)<br>"
 collection: projects
 ---
 

@@ -1,13 +1,7 @@
 ---
 title: "Bio Medical Bert Named Entity Recognition"
 excerpt: "A repo for training bert based models for biomedical named entity recognition models.
-[(Repo Link)](https://github.com/kuldeep7688/BioMedicalBertNer)<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- "
+[(Repo Link)](https://github.com/kuldeep7688/BioMedicalBertNer)<br>"
 collection: projects
 ---
 

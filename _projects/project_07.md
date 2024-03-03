@@ -1,13 +1,7 @@
 ---
 title: "Very Deep Convolutional Networks for Text Classification"
 excerpt: "Paper implementation.
-[(Repo Link)](https://github.com/kuldeep7688/VDCNN)<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- "
+[(Repo Link)](https://github.com/kuldeep7688/VDCNN)<br>"
 collection: projects
 ---
 
