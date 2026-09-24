@@ -1,27 +1,18 @@
 ---
-title: "Research Assistant"
+title: "Sr ML Engineer"
 collection: experience
-type: "Division of Occupational and Environmental Medicine"
+type: "GenAI Platform Team"
 permalink: /experience/experience-01
-venue: "Department of Medicine, MSU"
-date1: 12 October, 2023
+venue: "Quantiphi (Client: AT&T)"
+date1: 02 February 2025
 date2: Present
-excerpt: 'Currently I am working on developing LLM based methods to evaluate SOAP notes, and identifying bias in clinical director comments.'
-location: "East Lansing, MI, USA"
+excerpt: 'Optimizing Agentic AI workflows (DSPy/GEPA, PEFT, RL) and building fine-tuning and evaluation infrastructure, saving $800K/year.'
+location: "Bedminster, NJ, USA"
 ---
 
 ## Role
-- working on developing machine learning algorithms to address critical research problems specifically focused on scoring patient notes and identifying biases in Clerkship Directors’ Comments.
-- Designed comprehensive annotation and evaluation strategies for various research projects, ensuring rigorous and systematic analysis of data.
-- Conducted in-depth error analysis, meticulously identifying and scrutinizing errors to refine research methodologies and enhance data quality.
-- Collaborated on the integration and evaluation of Large Language Models (LLMs) across multiple research problems, leveraging state-of-the-art AI techniques to advance research outcomes. 
-
-<!-- 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->
+- Optimized Agentic AI workflows using DSPy (GEPA), PEFT, and RL, saving $800K/year.
+- Benchmarked fine-tuned models' inference performance using GuideLLM to measure throughput (RPS) and p95 latency, informing GPU scaling and deployment strategy for production load.
+- Designed an Evaluation Microservice supporting custom LLM-as-a-judge and code-based judges.
+- Integrated GRPO, PPO, and GSPO reinforcement learning algorithms into the FTaaS (Finetuning-as-a-Service) platform using Hugging Face TRL.
+- Engineered robust RAG evaluation with metrics like Faithfulness, Relevancy, and Context Sufficiency.

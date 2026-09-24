@@ -1,9 +1,9 @@
 ---
-title: "Very Deep Convolutional Networks for Text Classification"
-excerpt: "Paper implementation.
-[(Repo Link)](https://github.com/kuldeep7688/VDCNN)<br>"
+title: "BioMedicalAbbvExtractor"
+excerpt: "Identifying abbreviations and their corresponding long forms from biomedical abstracts.
+[(Repo Link)](https://github.com/kuldeep7688/BioMedicalAbbvExtractor)<br>"
 collection: projects
 ---
 
 ## Description
-Implementation of the Very Deep Convolutional Networks for Text Classification. This is a simple pytorch implmentation of very deep convolutional networks as presented in the paper Very Deep Convolutional Networks for Text Classification by Yann Le Cun et al. [Paper](https://arxiv.org/abs/1606.01781?context=cs).
+This is a simple rule based abbreviation extraction algorithm for biomedical abstracts. It can identify abbreviations and their long form and replace all the occurrences of the abbreviation with the correct long form.

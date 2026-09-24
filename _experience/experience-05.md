@@ -1,18 +1,21 @@
 ---
-title: "Data Science Intern"
+title: "NLP Engineer"
 collection: experience
-type: "Innovation Team"
+type: "Real World Data (RWD) Team"
 permalink: /experience/experience-05
-venue: "Innoplexus Consulting Pvt. Ltd."
-date1: 17 May 2017
-date2: 20 July 2017 
-excerpt: 'I worked on bulding web-scraping pipelines and developing ml methods to improve sharding in MongoDB database.'
-location: "Pune, Maharashtra, India"
+venue: "ConcertAI (SymphonyAI)"
+date1: 06 Jan 2021
+date2: 30 July 2022
+excerpt: 'I worked on developing NER and Relationship classification models on EHR data to better assess patients fit for clinical trials.'
+location: "Bengaluru, Karnataka, India"
 ---
 
 ## Role
-- Formalized a machine learning algorithm to find efficient shard keys using MongoDB log data.
-- Data extraction, cleaning and processing on MongoDB log events data.
+- Implemented Information Extraction algorithms which efficiently run on 114k Electronic Health Records data of patients.
+- Developed algorithms with +90% F1 Score to extract, disambiguate, normalize and relate medications and their attributes like dosage, route, frequency, duration, etc.
+- Integrated weak supervision techniques, like Skweak and Snorkel, to proliferate training data for SiteofMets extraction; improved the results on test data by 7.5% F1 Score.
+- Revamped model agnostic metrics calculation tool and deployed it company-wide.
+
 
 <!-- 
 Heading 1

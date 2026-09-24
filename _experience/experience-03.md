@@ -1,21 +1,20 @@
 ---
-title: "NLP Engineer"
+title: "AI Consultant"
 collection: experience
-type: "Real World Data (RWD) Team"
+type: "Division of Occupational and Environmental Medicine"
 permalink: /experience/experience-03
-venue: "ConcertAI (SymphonyAI)"
-date1: 06 Jan 2021
-date2: 30 July 2022
-excerpt: 'I worked on developing NER and Relationship classification models on EHR data to better assess patients fit for clinical trials.'
-location: "Bengaluru, Karnataka, India"
+venue: "Department of Family Medicine, MSU"
+date1: 04 April 2024
+date2: 08 August 2024
+excerpt: 'Improved document retrieval recall by 22% in a clinical RAG system using AWS Bedrock and OpenSearch, and deployed a scalable ML backend on FastAPI/ECS.'
+location: "East Lansing, MI, USA"
 ---
 
 ## Role
-- Implemented Information Extraction algorithms which efficiently run on 114k Electronic Health Records data of patients.
-- Developed algorithms with +90% F1 Score to extract, disambiguate, normalize and relate medications and their attributes like dosage, route, frequency, duration, etc.
-- Integrated weak supervision techniques, like Skweak and Snorkel, to proliferate training data for SiteofMets extraction; improved the results on test data by 7.5% F1 Score.
-- Revamped model agnostic metrics calculation tool and deployed it company-wide.
-
+- Improved document retrieval recall score by 22% in RAG Agents using AWS Bedrock, OpenSearch, Titan Embeddings, and Claude Sonnet, enhancing search quality and consistency.
+- Deployed a scalable ML backend, reducing API response times by 40% using FastAPI, AWS ECR and ECS.
+- Built LLM workflows using LangGraph for information extraction.
+- Designed information extraction methods using the OpenAI API, function calling and Pydantic data models.
 
 <!-- 
 Heading 1
