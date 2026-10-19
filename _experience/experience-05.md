@@ -14,6 +14,8 @@ location: "Bengaluru, Karnataka, India"
 - Implemented Information Extraction algorithms which efficiently run on 114k Electronic Health Records data of patients.
 - Developed algorithms with +90% F1 Score to extract, disambiguate, normalize and relate medications and their attributes like dosage, route, frequency, duration, etc.
 - Integrated weak supervision techniques, like Skweak and Snorkel, to proliferate training data for SiteofMets extraction; improved the results on test data by 7.5% F1 Score.
+- Streamlined annotation with active learning in SpaCy, cutting manual annotation effort by 30%.
+- Optimized a sentiment analysis pipeline with AWS Comprehend, Textract, Lambda and S3, reducing processing time by 80%.
 - Revamped model agnostic metrics calculation tool and deployed it company-wide.
 
 
